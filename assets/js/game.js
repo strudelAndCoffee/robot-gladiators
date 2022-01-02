@@ -110,4 +110,8 @@ var endGame = function() {
   }
 };
 
+var shop = function() {
+  console.log("Eneterd the shop");
+}
+
 startGame();
